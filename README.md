@@ -1,5 +1,6 @@
 # DinoVision: Semantic Segmentation for Urban Safety
-
+![Original](original.png)
+![Result](modified.png)
 ## Project Overview
 DinoVision is an advanced semantic segmentation implementation utilizing Facebook's DINOv2 transformer architecture to create pixel-precise classifications of urban environments. The model identifies and segments 34 distinct urban elements including sidewalks, roads, crosswalks, and other critical infrastructure to enhance safety analysis and urban planning.
 
